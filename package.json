@@ -1,0 +1,23 @@
+{
+  "name": "cy-mx-testautosample",
+  "version": "1.0.0",
+  "description": "Sample test suite for examination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poorani5/test1.git"
+  },
+  "author": "Poorani5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poorani5/test1/issues"
+  },
+  "homepage": "https://github.com/poorani5/test1#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
